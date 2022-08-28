@@ -4,8 +4,11 @@ Designing a PID and a LQR controller to balance an inverted pendulum.
 ### PID Control of Inverted Pendulum
 
 Here PID control was used to stabilize the inverted pendulum in upright position. It was observed that a large amount of force is applied initially. From the graphs it can be seen that the value of x is increasing ie the cart keeps on moving towards right.
+
 ![](https://i.imgur.com/AD1bufn.png)
+
 ![](https://i.imgur.com/8mvxrjP.png)
+
 ![](https://i.imgur.com/SAmLpDJ.png)
 
 
