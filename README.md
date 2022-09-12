@@ -31,8 +31,8 @@ So In hybrid model the changes done are intially directly the corresponding ener
 ![](https://i.imgur.com/8nesENw.gif)
 
 
-![](https://i.imgur.com/OWmoDA0.png)
+![](images(lqr+energy)/phievst.png)
 
-![](https://i.imgur.com/ZjSmaVA.png)
+![](images(lqr+energy)/xvst.png)
 
-![](https://i.imgur.com/Ody72rV.png)
+![](images(lqr+energy)/uvst.png)
