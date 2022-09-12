@@ -6,7 +6,7 @@ Designing a PID and a LQR controller to balance an inverted pendulum.
 Here PID control was used to stabilize the inverted pendulum in upright position. It was observed that a large amount of force is applied initially. From the graphs it can be seen that the value of x is increasing ie the cart keeps on moving towards right.
 
 
-<img src="https://github.com/Arcane-01/Control-of-Cart-Pole-System/blob/main/images(pid)/thetavst.png" width="300"/> <img src="https://github.com/Arcane-01/Control-of-Cart-Pole-System/blob/main/images(pid)/force_vs_time.png" width="300"/> <img src="https://github.com/Arcane-01/Control-of-Cart-Pole-System/blob/main/images(pid)/x_vs_time.png" width="300"/>
+<img src="https://github.com/Arcane-01/Control-of-Cart-Pole-System/blob/main/images(pid)/thetavst.png" width="250"/> <img src="https://github.com/Arcane-01/Control-of-Cart-Pole-System/blob/main/images(pid)/force_vs_time.png" width="250"/> <img src="https://github.com/Arcane-01/Control-of-Cart-Pole-System/blob/main/images(pid)/x_vs_time.png" width="250"/>
 
 ### LQR Control of Inverted Pendulum
 Here we build an LQR controller to stabilize the pendulum in upright position. We tunned the Q (penalty on states) and R (penalty on actuators) matrix to obtain the desired results. Below graphs shows variation of theta, force, postion(x) with time. In animation we can see pendulum stabilize in upright postion at desired (x=5).
