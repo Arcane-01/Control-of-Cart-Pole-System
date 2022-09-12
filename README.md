@@ -30,9 +30,4 @@ So In hybrid model the changes done are intially directly the corresponding ener
 
 ![](https://i.imgur.com/8nesENw.gif)
 
-
-![](images(lqr+energy)/phievst.png)
-
-![](images(lqr+energy)/xvst.png)
-
-![](images(lqr+energy)/uvst.png)
+<img src="https://github.com/Arcane-01/Control-of-Cart-Pole-System/blob/main/images(lqr%2Benergy)/phievst.png" width="300"/> <img src="https://github.com/Arcane-01/Control-of-Cart-Pole-System/blob/main/images(lqr%2Benergy)/uvst.png" width="300"/> <img src="https://github.com/Arcane-01/Control-of-Cart-Pole-System/blob/main/images(lqr%2Benergy)/xvst.png" width="300"/>
